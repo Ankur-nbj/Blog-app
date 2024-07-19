@@ -49,7 +49,7 @@ This will start the React development server and open the application in your de
 
 ## Deployment
 
-The application is deployed and accessible at [https://your-deployed-site-url.com](https://blog-appblog-app-wine.vercel.app). You can visit this link to see the live version of the application.
+The application is deployed and accessible at [link](https://blog-appblog-app-wine.vercel.app). You can visit this link to see the live version of the application.
 
 ## Component Overview
 
